@@ -24,7 +24,6 @@ AtliQo, one of India's leading telecom providers, launched its 5G plans in May 2
 
 - Active user count
 - Revenue growth
-- Churn rate
 - Average revenue per user (ARPU)
 
 ### Expected Insights:
